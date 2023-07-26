@@ -9,6 +9,7 @@ export default function App() {
     <main>
      <NavBar />
      <GeneralRouter />
+      
      <Footer/>
     </main>
   )
