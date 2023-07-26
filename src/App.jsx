@@ -8,8 +8,7 @@ export default function App() {
   return (
     <main>
      <NavBar />
-     <GeneralRouter />
-      
+     <GeneralRouter /> 
      <Footer/>
     </main>
   )
